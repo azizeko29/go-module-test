@@ -1,4 +1,4 @@
-package go_module_test
+package gomoduletest
 
 func SayHelloFromModule() string {
 	return "Hello, selamat pagi. selamat beraktivitas ya :)"
