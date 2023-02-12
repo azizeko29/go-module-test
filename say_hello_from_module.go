@@ -1,5 +1,5 @@
 package go_module_test
 
-func SayHello() string {
+func SayHelloFromModule() string {
 	return "Hello, selamat pagi. selamat beraktivitas ya :)"
 }
